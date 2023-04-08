@@ -2,7 +2,7 @@ class SshManager < Formula
   desc "Ssh-Manager written in Rust"
   homepage "https://github.com/vhrechukha/ssh-manager"
   url "https://github.com/vhrechukha/ssh-manager/releases/tag/v0.1.0/ssh-manager-mac.tar.gz"
-  sha256 "e52527b59b422f17217f2bf28aeb47d1484adc6ffe34efe0bbf4683b48e0889f"
+  sha256 "4623c715b53f0079b57097a7632ecb9c8cc70e5143e979c1d2c257bcc0648866"
   version "0.1.0"
 
   def install
